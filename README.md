@@ -1,14 +1,8 @@
-## To get started run command:
-```shell
-git clone https://github.com/jrq3rq/clone-airbnb.git
-```
-### `npm install`
+AirBnB Clone Images:
 
-Installs dependencies 
+![Image of AirBnB Clone](./src/images/AirBnB-img.png)
+![Image of AirBnB Clone](./src/images/AirBnB-img1.png)
 
-```shell
-npm i 
-```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
