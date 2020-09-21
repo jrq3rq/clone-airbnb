@@ -2,6 +2,7 @@ AirBnB Clone Images:
 
 ![Image of AirBnB Clone](./src/images/AirBnB-img.png)
 ![Image of AirBnB Clone](./src/images/AirBnB-img1.png)
+![Image of AirBnB Clone](./src/images/AirBnB-img2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
